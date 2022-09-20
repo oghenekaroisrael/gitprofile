@@ -1,15 +1,15 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@oghenekaroisrael/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.0.9",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "oghenekaroisrael",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/oghenekaroisrael/gitprofile.git"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/oghenekaroisrael/gitprofile/issues"
   },
   "files": [
     "dist/gitprofile.es.js",
@@ -39,7 +39,25 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@arifszn/blog-js": "^2.0.0",
+    "@vitejs/plugin-react": "^2.0.0",
+    "autoprefixer": "^10.4.4",
+    "axios": "^0.27.2",
+    "daisyui": "^2.11.0",
+    "date-fns": "^2.28.0",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "postcss": "^8.4.12",
+    "prettier": "^2.6.0",
+    "prop-types": "^15.8.1",
+    "react-helmet-async": "^1.2.3",
+    "react-hotjar": "^5.0.0",
+    "react-icons": "^4.3.1",
+    "tailwindcss": "^3.0.23",
+    "vite": "^3.0.1"
   },
   "devDependencies": {
     "@arifszn/blog-js": "^2.0.0",
